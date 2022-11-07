@@ -9,7 +9,7 @@ void ciclo(int n,int limite){
 
 int main()
 {
-    ciclo(3,12);
+    ciclo(2,10);
 
     return 0;
 }
